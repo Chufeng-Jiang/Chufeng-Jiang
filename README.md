@@ -11,7 +11,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visit
 <h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chufeng-jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chufeng-jiang" height="15" width="20" /></a>
-<a href="https://www.youtube.com/c/chufeng_jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chufeng_jiang" height="15" width="20" /></a>
+<a href="https://www.youtube.com/channel/UCizmQCLe85G5BPXjXOvlgow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chufeng_jiang" height="15" width="20" /></a>
 <a href="https://instagram.com/chufeng.jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chufeng.jiang" height="15" width="20" /></a>
 
 </p>
