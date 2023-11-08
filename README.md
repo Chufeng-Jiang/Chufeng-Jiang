@@ -2,8 +2,8 @@
 My ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor.
 #### **About me**
 📫 My name：Chufeng Jiang<br/>
-🌱 I'm currently a MSCS student and learning C/C++ with ITCAST Bootcamp.<br/>
-👨‍💻 My interest is in Computer Architecture and System / Cybersecurity, and now I'm looking for RA/PhD opportunities in US.<br/>
+🌱 I'm currently a MSCS Conversion student and learning C/C++ with ITCAST Bootcamp.<br/>
+👨‍💻 I'm interested in Computer Architecture and System / Cybersecurity, and I'm now looking for RA/PhD opportunities in US.<br/>
 📝 I regularly write articles on [CSDN：大大枫](https://blog.csdn.net/jiangchufeng123)<br/>
 ⚡ Know more about me： [CJ's Road to Computer Science](https://chufeng-jiang.blogspot.com/) <a href="https://chufeng-jiang.blogspot.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="chufeng-jiang" height="30" width="60" /></a>
 
