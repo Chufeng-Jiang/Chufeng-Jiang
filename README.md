@@ -1,18 +1,17 @@
 ## Hi! Nice to see you.👋
 My ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor.
-#### **About me**
-📫 My name：Chufeng Jiang<br/>
-🌱 I'm currently a MSCS Conversion student and learning C/C++ with ITCAST Bootcamp.<br/>
-👨‍💻 I'm interested in Computer Architecture and System / Cybersecurity, and I'm now looking for RA/PhD opportunities in US.<br/>
-📝 I regularly write articles on [CSDN：大大枫](https://blog.csdn.net/jiangchufeng123)<br/>
-⚡ Know more about me： [CJ's Road to Computer Science](https://chufeng-jiang.blogspot.com/) <a href="https://chufeng-jiang.blogspot.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="chufeng-jiang" height="30" width="60" /></a>
-
+#### **About Me** 
+📫 My name: Chufeng (Beza) Jiang <br/>
+😄 I am actively seeking opportunities for **`2025 Summer SWE Internship`**. <br/>
+👨‍💻 My research areas: Software Engineering / Programming Languages / Deep Learning Framework <br/>
+⚡ Know more about my life adventures at： [Chufeng's Road to Computer Science](https://chufeng-jiang.blogspot.com/) <a href="https://chufeng-jiang.blogspot.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="chufeng-jiang" height="20" width="40" /></a>
+<!--🌱 I am currently a 1st year Computer Science Ph.D student at the City Uniersity of New York.<br/><br/>-->
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chufeng-jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chufeng-jiang" height="15" width="20" /></a>
-<a href="https://www.youtube.com/channel/UCizmQCLe85G5BPXjXOvlgow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chufeng_jiang" height="15" width="20" /></a>
-<a href="https://instagram.com/chufeng.jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chufeng.jiang" height="15" width="20" /></a>
+<a href="https://linkedin.com/in/chufeng-jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chufeng-jiang" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCizmQCLe85G5BPXjXOvlgow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chufeng_jiang" height="30" width="40" /></a>
+<a href="https://instagram.com/chufeng.jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chufeng.jiang" height="30" width="40" /></a>
 
 </p>
 
