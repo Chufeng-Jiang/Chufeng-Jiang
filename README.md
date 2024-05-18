@@ -1,20 +1,22 @@
 <!-- 👋Hi! Nice to see you, my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor. -->
-### Chufeng (Beza) Jiang  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 🏫 CS Ph.D Student, The City University of New York<br/>
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Research Areas: SWE, PL, DL Framework
+### **Chufeng (Beza) Jiang**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 🏫 CS Ph.D Student, The City University of New York<br/>
+#### cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Research Areas: Software Engineering, Programming Languages, DL Framework
 
 #### **About Me** 
 <!--📫 My name: Chufeng (Beza) Jiang <br/> -->
-😄 I am actively seeking opportunities for **`2025 Summer SWE Internship`**. <br/>
+😄 I am actively seeking opportunities for **[2025 Summer SWE Internship](https://linkedin.com/in/chufeng-jiang)**. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Languages: Java, C/C++, Python, Unix shell, JavaScript, Matlab, Go, Rust.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Framework: Spring Boot, NodeJS, Django, Flask, ReactJS, Angular, Vue.js, jQuery, Qt framework (GUI) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linux: System Calls, IPC, Network Programming, Multi-thread Programming, ARM Assembly.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Databases: MySQL, Oracle, Postgre, Redis, MongoDB.<br/>
+
+⚡ Know more about my life adventures at： [Chufeng's Road to Computer Science](https://chufeng-jiang.blogspot.com/)  <a href="https://chufeng-jiang.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="chufeng_jiang" height="20" width="26.7" /></a>
+<!--🌱👨‍💻💻 I am currently a 1st year Computer Science Ph.D student at the City Uniersity of New York.<br/><br/>
 🎓 My research areas: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡Software Engineering  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡Programming Languages  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡Deep Learning Framework <br/>
-⚡ Know more about my life adventures at： [Chufeng's Road to Computer Science](https://chufeng-jiang.blogspot.com/)  <a href="https://chufeng-jiang.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="chufeng_jiang" height="20" width="26.7" /></a>
-<!--🌱👨‍💻💻 I am currently a 1st year Computer Science Ph.D student at the City Uniersity of New York.<br/><br/>
+
 <a href="https://chufeng-jiang.blogspot.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="chufeng-jiang" height="20" width="40" /></a>
 <a href="https://chufeng-jiang.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="chufeng_jiang" height="20" width="26.67" /></a>
 -->
