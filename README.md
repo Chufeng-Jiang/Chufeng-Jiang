@@ -1,5 +1,6 @@
 <!-- 👋Hi! Nice to see you, my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor. -->
-### Chufeng (Beza) Jiang  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 🏫 CS Ph.D Student, The City University of New York
+### Chufeng (Beza) Jiang  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 🏫 CS Ph.D Student, The City University of New York<br/>
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Research Areas: SWE, PL, DL Framework
 
 #### **About Me** 
 <!--📫 My name: Chufeng (Beza) Jiang <br/> -->
@@ -12,14 +13,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡Software Engineering  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡Programming Languages  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡Deep Learning Framework <br/>
-⚡ Know more about my life adventures at： [Chufeng's Road to Computer Science](https://chufeng-jiang.blogspot.com/) <a href="https://chufeng-jiang.blogspot.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="chufeng-jiang" height="20" width="40" /></a>
-<!--🌱👨‍💻💻 I am currently a 1st year Computer Science Ph.D student at the City Uniersity of New York.<br/><br/>-->
+⚡ Know more about my life adventures at： [Chufeng's Road to Computer Science](https://chufeng-jiang.blogspot.com/)  <a href="https://chufeng-jiang.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="chufeng_jiang" height="20" width="26.7" /></a>
+<!--🌱👨‍💻💻 I am currently a 1st year Computer Science Ph.D student at the City Uniersity of New York.<br/><br/>
+<a href="https://chufeng-jiang.blogspot.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="chufeng-jiang" height="20" width="40" /></a>
+<a href="https://chufeng-jiang.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="chufeng_jiang" height="20" width="26.67" /></a>
+-->
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chufeng-jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chufeng-jiang" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCizmQCLe85G5BPXjXOvlgow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chufeng_jiang" height="30" width="40" /></a>
 <a href="https://instagram.com/chufeng.jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chufeng.jiang" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chufeng_jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chufeng_jiang" height="30" width="40" /></a>
+
 
 </p>
 
