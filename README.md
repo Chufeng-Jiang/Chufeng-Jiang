@@ -16,8 +16,8 @@
 
 <!-- 👋Hi! Nice to see you, my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor. -->
 
-**Chufeng (Beza) Jiang**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏫 CS Ph.D Student, The City University of New York<br/>
-cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D Advisor: [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/research/projects/) </br>
+### Chufeng (Beza) Jiang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏫 CS Ph.D Student, The City University of New York<br/>
+cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D Advisor:** [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/research/projects/) </br>
 
  `Research Areas: Software Engineering, Programming Languages, Deep Learning Framework      ` </br>
 <!-- #### **About Me** -->
@@ -30,7 +30,7 @@ cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
  -->
 
 <!--📫 My name: Chufeng (Beza) Jiang <br/> -->
-💪 I am actively seeking opportunities for **[2025 Summer SWE Internship](https://linkedin.com/in/chufeng-jiang)**. <br/>
+I am actively seeking opportunities for **[2025 Summer SWE Internship](https://linkedin.com/in/chufeng-jiang)**. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Languages: Java, C/C++, Python, Unix shell, JavaScript, Matlab, Go, Rust.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Framework: Spring Boot, NodeJS, Django, Flask, ReactJS, Angular, Vue.js, jQuery, Qt framework (GUI). <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linux: System Calls, IPC, Network Programming, Multi-thread Programming, ARM Assembly.<br/>
@@ -38,15 +38,15 @@ cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 ### 
 
-🚀 Know more about my life adventures at： [Chufeng's Road to Computer Science](https://chufeng-jiang.blogspot.com/)  
+Know more about my life adventures at： [Chufeng's Road to Computer Science](https://chufeng-jiang.blogspot.com/)  
 
-<!--🌱👨‍💻💻😄💪 I am currently a 1st year Computer Science Ph.D student at the City Uniersity of New York.<br/><br/>
+<!--🌱👨‍💻💻😄💪🚀  I am currently a 1st year Computer Science Ph.D student at the City Uniersity of New York.<br/><br/>
 
 <a href="https://chufeng-jiang.blogspot.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="chufeng-jiang" height="20" width="40" /></a>
 <a href="https://chufeng-jiang.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="chufeng_jiang" height="20" width="26.67" /></a>
 -->
 
-📝 Connect with me:
+#### 📝 Connect with me:
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/chufeng-jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chufeng-jiang" height="30" width="40" /></a>
   <a href="https://chufeng-jiang.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="chufeng_jiang" height="30" width="40" /></a>
