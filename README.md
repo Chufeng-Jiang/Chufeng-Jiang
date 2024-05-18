@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Chufeng-Jiang)
+<!-- ![](https://komarev.com/ghpvc/?username=Chufeng-Jiang) -->
 
 <!-- Original university's icon -->
 <!-- ![图片](https://github.com/Chufeng-Jiang/Chufeng-Jiang/assets/80246982/b33a7668-1ef0-4aa5-ab37-34bc1c772696) -->
