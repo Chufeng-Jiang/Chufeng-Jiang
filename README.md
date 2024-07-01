@@ -18,7 +18,7 @@
 <a href="https://www.birmingham.ac.uk/university/colleges/eps/outreach/physical-sciences/computer-science" target="blank"><img align="center" src="https://github.com/Chufeng-Jiang/Chufeng-Jiang/assets/80246982/8a6d1db6-ea1a-49bf-a730-405fd2e0d3a1" alt="UOBD" height="35" width="30" /></a>
 <a href="https://istudy.nankai.edu.cn/ycjy/ycjy_index.htm" target="blank"><img align="center" src="https://github.com/Chufeng-Jiang/Chufeng-Jiang/assets/80246982/b33a7668-1ef0-4aa5-ab37-34bc1c772696" alt="nankai" height="40" width="40" /></a>
 
-### Chufeng (Beza) Jiang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏫 CS Ph.D Student, *The City University of New York*<br/>
+### Chufeng (Beza) Jiang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏫 Incoming CS Ph.D Student, *The City University of New York*<br/>
 cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D Advisor:** [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/research/projects/) </br>
 
 
@@ -26,14 +26,13 @@ cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 >Research Areas: Software Engineering, Programming Languages, Deep Learning Framework       </br>
 
 
-I am actively seeking opportunities for **[2025 Summer SWE Internship](https://linkedin.com/in/chufeng-jiang)**. <br/>
+I am actively seeking opportunities for **2025 Summer SWE Internship**, and **Summer Compnay Research Internship**. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Languages: Java, C/C++, Python, Unix shell, JavaScript, Matlab, Go, Rust.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Framework: Spring Boot, NodeJS, Django, Flask, ReactJS, Angular, Vue.js, jQuery, Qt framework (GUI). <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linux: System Calls, IPC, Network Programming, Multi-thread Programming, ARM Assembly.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linux: IPC, Network Programming, Multi-thread Programming, ARM Assembly.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Databases: MySQL, Oracle, Postgre, Redis, MongoDB.<br/>
 
-
-Know more about my life adventures at： [Chufeng's Road to Computer Science](https://chufeng-jiang.blogspot.com/)  
+To know more about my background, please visit my homepage at： [奇迹枫枫 - Chufeng's Road to Computer Science](https://chufeng-jiang.github.io/)  
 
 
 #### 💬 Connect with me:
@@ -44,7 +43,13 @@ Know more about my life adventures at： [Chufeng's Road to Computer Science](ht
   <a href="https://www.leetcode.com/chufeng_jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chufeng_jiang" height="30" width="40" /></a>
 </p>
 
-              
+#### 🥳 Recent Activities:
+ - *2024.06*:  One paper *"Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition"* is accepted by the 5th International Conference on Artificial Intelligence and Electromechanical Automation.
+
+ - *2024.02*:  One paper *"Large language models for forecasting and anomaly detection: A systematic literature review"* is submitted to arxiv: [https://arxiv.org/abs/2402.10350](https://arxiv.org/abs/2402.10350).
+
+<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Leetcode Stats](https://leetcard.jacoblin.cool/Chufeng_Jiang?theme=unicorn&ext=heatmap&font=milonga&animation=true)
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/Chufeng_Jiang?theme=unicorn&ext=heatmap&font=Dancing_Script&animation=true) -->
 
