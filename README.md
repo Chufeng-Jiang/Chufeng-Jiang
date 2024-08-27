@@ -11,14 +11,14 @@
 
 
 
-<!-- Here is the line to present the university's icon -->
+<!-- Here is the line to present the university's icon 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.gc.cuny.edu/computer-science" target="blank"><img align="center" src="https://github.com/Chufeng-Jiang/Chufeng-Jiang/assets/80246982/b0fdb009-f89f-4195-a0f2-31edee199be0" alt="CUNY" height="40" width="38" /></a>
 <a href="https://cdso.utexas.edu/mscs" target="blank"><img align="center" src="https://github.com/Chufeng-Jiang/Chufeng-Jiang/assets/80246982/e8d55680-4dc4-4ef4-a42a-cb3487ec0868" alt="UT Austin" height="38" width="45" /></a>
 <a href="https://www.birmingham.ac.uk/university/colleges/eps/outreach/physical-sciences/computer-science" target="blank"><img align="center" src="https://github.com/Chufeng-Jiang/Chufeng-Jiang/assets/80246982/8a6d1db6-ea1a-49bf-a730-405fd2e0d3a1" alt="UOBD" height="35" width="30" /></a>
 <a href="https://istudy.nankai.edu.cn/ycjy/ycjy_index.htm" target="blank"><img align="center" src="https://github.com/Chufeng-Jiang/Chufeng-Jiang/assets/80246982/b33a7668-1ef0-4aa5-ab37-34bc1c772696" alt="nankai" height="40" width="40" /></a>
-
-### Chufeng (Beza) Jiang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏫 Incoming CS Ph.D Student, *The City University of New York*<br/>
+-->
+### Chufeng (Beza) Jiang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏫 1st Year CS Ph.D Student, *The City University of New York*<br/>
 cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D Advisor:** [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/research/projects/) </br>
 
 
