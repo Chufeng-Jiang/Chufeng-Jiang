@@ -19,7 +19,7 @@
 <a href="https://istudy.nankai.edu.cn/ycjy/ycjy_index.htm" target="blank"><img align="center" src="https://github.com/Chufeng-Jiang/Chufeng-Jiang/assets/80246982/b33a7668-1ef0-4aa5-ab37-34bc1c772696" alt="nankai" height="40" width="40" /></a>
 -->
 ### Chufeng (Beza) Jiang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏫 1st Year CS Ph.D Student, *The City University of New York*<br/>
-cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D Advisor:** [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/research/projects/) </br>
+cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Advisor:** [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/research/projects/) </br>
 
 
 
