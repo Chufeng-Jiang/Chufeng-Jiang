@@ -23,7 +23,7 @@ cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 
 
->Research Areas: Software Engineering, Programming Languages, Deep Learning Framework       </br>
+<!-- >Research Areas: Software Engineering, Programming Languages, Deep Learning Framework       </br> -->
 
 
 I am actively seeking opportunities for **2025 Summer SWE Internship**, and **Summer Compnay Research Internship**. <br/>
@@ -32,16 +32,16 @@ I am actively seeking opportunities for **2025 Summer SWE Internship**, and **Su
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linux: IPC, Network Programming, Multi-thread Programming, ARM Assembly.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Databases: MySQL, Oracle, Postgre, Redis, MongoDB.<br/>
 
-To know more about my background, please visit my homepage at： [奇迹枫枫 - Chufeng's Road to Computer Science](https://chufeng-jiang.github.io/)  
+<!-- To know more about my background, please visit my homepage at： [奇迹枫枫 - Chufeng's Road to Computer Science](https://chufeng-jiang.github.io/)   -->
 
 
 #### 💬 Connect with me:
-<p align="left">
+<!-- <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/chufeng-jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chufeng-jiang" height="30" width="40" /></a>
  <a href="https://scholar.google.com/citations?user=6i-r0JIAAAAJ&hl=en&oi=ao" target="blank"><img align="center" src="https://github.com/Chufeng-Jiang/Chufeng-Jiang/assets/80246982/8405a529-d043-4b3a-aa1f-48adeae35ea0" alt="Google Scholar" height="38" width="32" /></a>
   <a href="https://chufeng-jiang.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="chufeng_jiang" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/chufeng_jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chufeng_jiang" height="30" width="40" /></a>
-</p>
+</p> -->
 
 #### 🥳 Recent Activities:
  - *2024.06*:  One paper *"Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition"* is accepted by the 5th International Conference on Artificial Intelligence and Electromechanical Automation.
