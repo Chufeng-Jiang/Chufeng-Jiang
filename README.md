@@ -24,10 +24,10 @@ cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 
 
-<!-- >Research Areas: Software Engineering, Programming Languages, Deep Learning Framework       </br> -->
+<!-- >Research Areas: Software Engineering, Programming Languages, Deep Learning Framework       </br> 
 
 
-I am actively seeking opportunities for **2025 Summer SWE Internship**, and **Summer Compnay Research Internship**. <br/>
+I am actively seeking opportunities for **2025 Summer SWE Internship**, and **Summer Compnay Research Internship**. <br/>-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Languages: Java, C/C++, Python, Unix shell, JavaScript, Matlab, Go, Rust.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Framework: Spring Boot, NodeJS, Django, Flask, ReactJS, Angular, Vue.js, jQuery, Qt framework (GUI). <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linux: IPC, Network Programming, Multi-thread Programming, ARM Assembly.<br/>
