@@ -51,7 +51,7 @@ I am actively seeking opportunities for **2025 Summer SWE Internship**, and **Su
  - *2024.02*:  One paper *"Large language models for forecasting and anomaly detection: A systematic literature review"* is submitted to arxiv: [https://arxiv.org/abs/2402.10350](https://arxiv.org/abs/2402.10350).
 <br> -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Leetcode Stats](https://leetcard.jacoblin.cool/chufeng_jiang?theme=unicorn&ext=heatmap&font=milonga&animation=true&leetcode?site=cn)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Leetcode Stats](https://leetcard.jacoblin.cool/chufeng_jiang?site=cn&theme=unicorn&ext=heatmap&font=milonga&animation=true)
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/chufeng_jiang?theme=unicorn&ext=heatmap&font=Dancing_Script&animation=true) -->
 
 > [!TIP] 
