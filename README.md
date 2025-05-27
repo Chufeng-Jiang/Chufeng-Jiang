@@ -23,7 +23,7 @@ cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 🏫 2nd Year CS Ph.D Student, *The City University of New York*<br/>
 
- >Research Areas: Constraint Programming, Discrete Optimization, Deep Learning       </br> 
+ >Research Areas: Constraint Programming, Deep Learning       </br> 
 
 
 I am actively seeking opportunities for **2026 Summer SWE Internship**, and **Summer Company Research Internship**. <br/>
