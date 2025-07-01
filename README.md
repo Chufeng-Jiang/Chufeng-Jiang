@@ -48,7 +48,7 @@ I am actively seeking opportunities for **2026 Summer SWE Internship**, and **Su
 <br> -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Leetcode Stats](https://leetcard.jacoblin.cool/chufeng_jiang?site=cn&theme=unicorn&ext=heatmap&font=milonga&animation=true)
-<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/chufeng_jiang?theme=unicorn&ext=heatmap&font=Dancing_Script&animation=true) -->
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/chufeng_jiang?theme=unicorn&ext=heatmap&font=Dancing_Script&animation=true) 
 <!--
 > [!TIP] 
 > **0.99**<sup>365</sup> = **0.03** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.01**<sup>365</sup> = **37.8** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.02**<sup>365</sup> = **1377.4**
