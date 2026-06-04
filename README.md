@@ -21,7 +21,7 @@
 
 cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Advisor:** [Dr. Neng-Fa Zhou](http://www.sci.brooklyn.cuny.edu/~zhou/) </br> 
 
-🏫 2nd Year CS Ph.D Student, *The City University of New York*<br/>
+🏫 3rd Year CS Ph.D Student, *The City University of New York*<br/>
 
  >Research Areas: DL, LLMs, Constraint and Logic Programming, Combinatorial Optimization, SAT Encoding.       </br> 
 
@@ -40,14 +40,9 @@ I am actively seeking opportunities for **2026 Summer SWE Internship**, and **Su
   <a href="https://www.leetcode.com/chufeng_jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chufeng_jiang" height="30" width="40" /></a>
 </p> -->
 
-<!--
-#### 🥳 Recent Activities:
- - *2024.06*:  One paper *"Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition"* is accepted by the 5th International Conference on Artificial Intelligence and Electromechanical Automation.
 
- - *2024.02*:  One paper *"Large language models for forecasting and anomaly detection: A systematic literature review"* is submitted to arxiv: [https://arxiv.org/abs/2402.10350](https://arxiv.org/abs/2402.10350).
-<br> -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Leetcode Stats](https://leetcard.jacoblin.cool/chufeng_jiang?site=cn&theme=unicorn&ext=heatmap&font=milonga&animation=true)
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Leetcode Stats](https://leetcard.jacoblin.cool/chufeng_jiang?site=cn&theme=unicorn&ext=heatmap&font=milonga&animation=true) -->
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/chufeng_jiang?theme=unicorn&ext=heatmap&font=Dancing_Script&animation=true) 
 
 > [!TIP] 
