@@ -27,7 +27,7 @@ cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. ML Systems and LLM Inference — efficient inference, GPU acceleration, and systems optimization for LLMs..       </br> 
 
 
-I am actively seeking opportunities for **2027 Summer SWE/MLE Internship**, and **Research Internship**. <br/>
+I am actively seeking opportunities for **2027 Summer SWE/MLE/Research Internship**, Or **Early Career Full-time** Opportunities. <br/>
 
 #### 💬 Connect with me:&nbsp; <a href="https://linkedin.com/in/chufeng-jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chufeng-jiang" height="20" width="32" /></a>
 <!--  <p align="left">
