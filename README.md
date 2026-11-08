@@ -19,18 +19,15 @@
 -->
 ### [Chufeng (Beza) Jiang](https://chufeng-jiang.github.io/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Advisor:** [Dr. Neng-Fa Zhou](http://www.sci.brooklyn.cuny.edu/~zhou/) </br> 
+cjiang@gradcenter.cuny.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Advisor:** [Dr. Feng Gu](http://www.sci.brooklyn.cuny.edu/~zhou/) </br> 
 
-🏫 3rd Year CS Ph.D Student, *The City University of New York*<br/>
+🏫 CS Ph.D Candidate (all but dissertation), *The City University of New York*<br/>
 
- >Research Areas: DL, LLMs, Constraint and Logic Programming, Combinatorial Optimization, SAT Encoding.       </br> 
+ >Research Areas:   1. LLM and Agentic Systems — reliability, evaluation, and safety of autonomous AI agents; </br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. ML Systems and LLM Inference — efficient inference, GPU acceleration, and systems optimization for LLMs..       </br> 
 
 
-I am actively seeking opportunities for **2026 Summer SWE Internship**, and **Summer Company Research Internship**. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Languages: Java, C/C++, Python, Unix shell, JavaScript, Matlab, Go, Rust.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Framework: Spring Boot, NodeJS, Django, Flask, ReactJS, Angular, Vue.js, jQuery, Qt framework (GUI). <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linux: Network Programming, Multi-thread Programming, ARM Assembly.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Databases: MySQL, Oracle, Postgre, Redis, MongoDB.<br/>
+I am actively seeking opportunities for **2027 Summer SWE/MLE Internship**, and **Research Internship**. <br/>
 
 #### 💬 Connect with me:&nbsp; <a href="https://linkedin.com/in/chufeng-jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chufeng-jiang" height="20" width="32" /></a>
 <!--  <p align="left">
